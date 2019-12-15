@@ -123,6 +123,17 @@ blockquote {
 	color: rgb(6, 155, 6); 
 }
 
+#hidman{
+	visibility: hidden;
+}
+
+#hidModal{
+	visibility: hidden;
+}
+
+#react{
+	visibility: hidden;
+}
 /* Layout
 ----------------------------------------------------------------------------- */
 .header {
